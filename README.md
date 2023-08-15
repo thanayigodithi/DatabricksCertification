@@ -17,12 +17,13 @@ Benefits to data team
 Data Science and Engineering workspace
 Delta Lake  
 **- ELT with Spark SQL and Python (29%)** 
-    ELT Pt1: Creating and writing tables    
-    ELT Pt2: Creating and writing tables    
+ELT Pt1: Creating and writing tables    
+ELT Pt2: Creating and writing tables    
         use pyspark to leverage advanced code functionality
         
 **- Incremental Data Processing (22%)**   
 Delta Live Tables    
 Streaming  
 **- Production Pipelines (16%)** 
+
 **- Data Governance(9%)**
